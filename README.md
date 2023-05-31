@@ -25,7 +25,7 @@ https://colab.research.google.com/drive/1jhc1p_93ihm-FQuVzuAS4VCqoA3l7DRl#scroll
 Note that you will need to upload the iris123.siam dataset to Google Colab before running the notebook. Instructions for uploading the dataset are provided in the notebook.
 
 # License
-This project is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. See LICENSE for details.
+This project is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
 # Contact
 If you have any questions or feedback about this project, please contact me at mouraffayoussef@gmail.com or connect with me on LinkedIn ([YOUSSEF MOURAFFA](https://www.linkedin.com/in/youssef-mouraffa-316663201/)).
