@@ -1,4 +1,4 @@
-# Perceptron with One Hidden Layer and Softmax Function
+# From Theory to Implementation: A Comprehensive Perceptron Project with One Hidden Layer and Softmax Activation
 This project is an implementation of a Perceptron with one hidden layer and softmax function. The purpose of this project is to build a neural network that can classify input data into different categories.
 ![Alt Text](download.jfif)
 
